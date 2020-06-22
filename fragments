@@ -13,19 +13,19 @@ Cognitive]
 7	A2	A3	I think it is okay to focus on the new energy vehicles. We can use the VR techniques in the activity design. 
 Since students are supposed to learn relevant theories, we can teach them about the difference of power transmission between 
 the tradition vehicles and the new energy vehicles…	[Social;Cognitive]
-8	A1	/	Observation & Concept mapping	Behavioral
+8	A1	/	Observation & Concept mapping	[Behavioral]
 9	A1	A2	I think we’d better narrow down the topic you mentioned and make it more targeted.	[Social;Cognitive]
 10	A3	A1	OK, what is in your mind? Which topic do you suggest to narrow down to?	[Social;Cognitive]
-11	A3	/	Observation	Behavioral
+11	A3	/	Observation	[Behavioral]
 12	A1	A3	I agree with [A2]’s suggestions…	[Social;Cognitive]
 13	A2	/	…regarding their differences, for instance, the tradition vehicles use engine as transmission, but the new energy 
 vehicles may use motor.	[Cognitive]
-14	A1&A3	/	Observation	Behavioral
+14	A1&A3	/	Observation	[Behavioral]
 15	A2	/	Regarding this topic, we can focus on engineering design, which means how to make a better design to improve the 
 efficiency of energy use… Taking this as the theme of our class, students are supposed to tell the differences of the 
 manufacturing techniques between the tradition vehicles and the new energy vehicles… The transmission is a critical part 
 of the technique; students can use VR or online experiments to experience the transmission techniques.	[Cognitive]
-16	A1	/	Observation & Concept mapping	Behavioral
+16	A1	/	Observation & Concept mapping	[Behavioral]
 17	A3	A2	Yes, I think your idea is very good. And we can specify it, for example, the different energy types.	[Social;
 Cognitive]
 18	A2	A3	The hybrid-energy vehicle is different from the electrical vehicle, because the hybrid type involves both the 
@@ -37,16 +37,15 @@ vehicles. 	[Social;Cognitive]
 [Cognitive]
 21	A1	/	Observation & Concept mapping	[Behavioral]
 22	A2	A3	It’s OK. But I think there is no need to differentiate them in such a detailed way...	[Social;Cognitive]
-23	A3	A2	So we mention them in a generalized way?	Social;
-Cognitive
+23	A3	A2	So we mention them in a generalized way?	[Social;Cognitive]
 24	A2	A3	Since the focus is the transmission system of the vehicles, not the vehicle itself, so I think the vehicles 
 can be simply divided into three types.   	[Social;Cognitive]
 25	A3	A2	Which three types?	[Social;Cognitive]
 26	A2	A3	The electrical, the hybrid, and the traditional vehicles.	[Social;Cognitive]
-27	A1	/	Concept mapping	Behavioral
+27	A1	/	Concept mapping	[Behavioral]
 28	A3	A2	OK, so students are supposed to conduct the virtual experiments on those three types.	[Social;Cognitive]
-29	A1	/	Concept mapping	Behavioral
-30	A3	/	Observation	Behavioral
+29	A1	/	Concept mapping	[Behavioral]
+30	A3	/	Observation	[Behavioral]
 
 
 Group B
@@ -56,28 +55,26 @@ Line	From	To	Content	Dimension
 same thing… do we ask the students to form a group by themselves? Or form a group randomly?	[Cognitive]
 2	B3	/	Concept mapping	Behavioral
 3	B3	B1	Random grouping？Why?	[Social;Cognitive]
-4	B1	/	Observation	Behavioral
+4	B1	/	Observation	[Behavioral]
 5	B1	B3	…someone in the group would take responsible for the marketing, then he or she needs to do some research… someone 
 might be good at manufacturing, like an engineer. If there is a role assignment, it can help them to use their strengths 
 better.  	[Social;Cognitive]
-6	B3	/	Concept mapping	Behavioral
+6	B3	/	Concept mapping	[Behavioral]
 7	B2	B1	Yes, I totally agree. I think we can let the instructor to assign the groups, if she knows students and their 
 strengths. but I am afraid if we use random grouping, some groups may not be functioning if students are all not skillful 
 at doing this work… Grouping is also an important instructional strategy...	[Social;Cognitive]
-8	B1	B3	Concept mapping	Social
-Behavioral
-9	B2	/	Observation	Behavioral
+8	B1	B3	Concept mapping	[Social;Behavioral]
+9	B2	/	Observation	[Behavioral]
 10	B3	B2	Regarding to the grouping, I have an idea. In fact, what we are talking about is to achieve a better grouping 
 efficiency… the heterogeneous grouping is a good strategy. There are many different ways to achieve this… you can make the 
 groups manually, or you can use an algorithm. 	[Social;Cognitive]
 11	B1	B3	Concept mapping	Social
 Behavioral
 12	B3	/	The platform may have this kind of grouping function…	[Cognitive]
-13	B1	B3	Concept mapping	[Social]
-Behavioral
+13	B1	B3	Concept mapping	[Social;Behavioral]
 14	B1	B3	Taking advantage of the platform to achieve this, right?	[Social;Cognitive]
 15	B3	B1	Yes, we need to solve the problems about using what kind of technical supports.	[Social;Cognitive]
-16	B3	/	Task understanding 	Behavioral
+16	B3	/	Task understanding 	[Behavioral]
 17	B3	/	The platform can provide intelligent grouping function.	[Cognitive]
 18	B2&B3	/	Observation 	[Social;Behavioral]
 19	B3	/	Then our practical activity is like to forming a group-based work to achieve the engine assembling practice.	
@@ -99,7 +96,7 @@ addition, I think we can specify some dimensions to evaluate the groups’ perfo
 30	B2	B3	this part - assigning groups with budget - should be specify.	[Social;Cognitive]
 31	B2	B3	Concept mapping	[Social;Behavioral]
 32	B1	B2	It means that students form groups, and then the groups randomly receive their tasks.	[Social;Cognitive]
-33	B3	/	Concept mapping	Behavioral
+33	B3	/	Concept mapping	[Behavioral]
 34	B2	/	Yes, the task card will tell the student group how much money they can spend to assemble an engine.	[Cognitive]
 35	B1	B2	I think we could define the target group, for example, if they are rich, they may want to use the more luxurious 
 accessories.	[Social;Cognitive]
