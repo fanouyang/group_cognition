@@ -50,7 +50,7 @@ can be simply divided into three types.   	[Social;Cognitive]
 
 Group B
 -------
-Line	From	To	Content	Dimension
+Line	From	To	Content	[Dimension]
 1	B1	/	Do we need to assign a role to students in the group? I think it would be inappropriate for all students to do the 
 same thing… do we ask the students to form a group by themselves? Or form a group randomly?	[Cognitive]
 2	B3	/	Concept mapping	(adding "experimental groups" in the concept map) [Behavioral]
@@ -106,7 +106,7 @@ accessories.	[Social;Cognitive]
 40	B2	B3	It is like a mission card. When you open that card, you will find that you are in a specific group with an 
 assigned role. And then you will find the amount of money for the group to use. The purpose is to assemble an engine. 
 Then the group will log in the online platform to assemble the engine… there will be a mall in the platform…students are 
-supposed to learn how to build an engine there.	[Social;Cognitive GD]
+supposed to learn how to build an engine there.	[Social;Cognitive: GD]
 41	B3	/	Concept mapping	 (adding "task cards" in the concept map)[Behavioral]
 42	B2	/	Is it necessary to describe details of the types of engine?	[Cognitive]
 43	B3	B2	It is necessary to clarify the main goals in the card, such as the budget, the target customer, restricted 
@@ -126,7 +126,7 @@ on the price/performance ratio…	[Cognitive]
 
 Group C
 -------
-Line	From	To	Content	Dimension
+Line	From	To	Content	[Dimension]
 1	C3	/	Another approach is the remote lab. A student can operate to control a real entity by using a remote computer… but I 
 don’t think schools have this kind of technology…	[Cognitive]
 2	C1&C2	/	Observation 	[Behavioral]
@@ -154,18 +154,18 @@ student is doing during the practical activity… is this what you mean?	[Social
 22	C2	C3	There is no need to have all the students share the screen… the instructor can request one student to share the 
 screen if needed… the student can also request if he needs help…	[Social;Cognitive]
 23	C3	C1	I think what A1 means is… during the in-class activity, the instructor wants to know students’ practice process…
-even if the student did not ask the instructor a question	[Social;Cognitive]
+even if the student did not ask the instructor a question	[Social;Cognitive:GD]
 24	C1	C3	Yep, that is what I mean…	[Social;Cognitive]
 25	C2	C1	All right, I got it. What strategy can support it?	[Social;Cognitive]
 26	C1	/	Observation	[Behavioral]
 27	C3	C2	Video conferencing is a simple way to teach online… Video conferencing is also used frequently in practice… 
-students may not want to buy more advanced equipment…	[Social;Cognitive]
+students may not want to buy more advanced equipment…	[Social;Cognitive:GD]
 28	C2	C3	What you just mentioned that the instructor can monitor all students’ learning… it is in school’s computer labs…	
 [Social;Cognitive]
 29	C1	/	Observation	[Behavioral]
 30	C1	C2	Yep…	[Social;Cognitive]
 31	C3	C2	So the situation is, every student needs to turn on the webcam… which may be difficult in real situations because 
-the student can decide to turn it on or not… but this could be a strategy…	[Social;Cognitive]
+the student can decide to turn it on or not… but this could be a strategy…	[Social;Cognitive:GD]
 32	C3	/	Let me see, where can I put the theory lecture part? …activities, theory, or practice?	[Cognitive]
 33	C3&C1		Observation	[Behavioral]
 34	C3	/	How about put the practice at the beginning?... it is an in-class activity…	[Cognitive]
