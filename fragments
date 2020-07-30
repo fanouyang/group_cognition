@@ -1,6 +1,6 @@
 Group A
 -----------
-Line	From	To	Dimension
+Line	From	To	Conetnt [Dimension]
 1	A3	/	Another critical question for us to think is why we need to do the design… We can get connected with vehicles managers 
 or users to know more about their using experiences, then make some modification on the function or design.	[Cognitive]
 2	A2	A3	We can focus our design on the driving experience or the human-computer interaction in the car, which is closer to 
@@ -16,36 +16,36 @@ the tradition vehicles and the new energy vehicles…	[Social;Cognitive]
 8	A1	/	Observation & Concept mapping (adding content about new energy vehicle)	[Behavioral]
 9	A1	A2	I think we’d better narrow down the topic you mentioned and make it more targeted.	[Social;Cognitive]
 10	A3	A1	OK, what is in your mind? Which topic do you suggest to narrow down to?	[Social;Cognitive]
-11	A3	/	Observation	[Behavioral]
+11	A3	/	Observation (observing the concept map)	[Behavioral]
 12	A1	A3	I agree with [A2]’s suggestions…	[Social;Cognitive]
 13	A2	/	…regarding their differences, for instance, the tradition vehicles use engine as transmission, but the new energy 
 vehicles may use motor.	[Cognitive]
-14	A1&A3	/	Observation	[Behavioral]
+14	A1&A3	/	Observation	(observing the concept map) [Behavioral]
 15	A2	/	Regarding this topic, we can focus on engineering design, which means how to make a better design to improve the 
 efficiency of energy use… Taking this as the theme of our class, students are supposed to tell the differences of the 
 manufacturing techniques between the tradition vehicles and the new energy vehicles… The transmission is a critical part 
-of the technique; students can use VR or online experiments to experience the transmission techniques.	[Cognitive]
-16	A1	/	Observation & Concept mapping	[Behavioral]
+of the technique; students can use VR or online experiments to experience the transmission techniques.	[Cognitive: GD]
+16	A1	/	Observation & Concept mapping (trying to add more content about vehicle types and later deleting the content)	[Behavioral]
 17	A3	A2	Yes, I think your idea is very good. And we can specify it, for example, the different energy types.	[Social;
 Cognitive]
 18	A2	A3	The hybrid-energy vehicle is different from the electrical vehicle, because the hybrid type involves both the 
 traditional and the new energy… we can focus on the differences among those three types: electrical, gasoline, and hybrid. 
 Then, students can use the VR experiments to dissemble the vehicles and learn and the differences of those three types of 
 vehicles. 	[Social;Cognitive]
-19	A1	/	Observation & Concept mapping	[Behavioral]
+19	A1	/	Observation & Concept mapping (adding three vehicle types in the concept map)	[Behavioral]
 20	A3	A2	Yes. Students can form groups to focus on different types of vehicles, such as [many different types of energy] .... We can let students learn the theories first, and then use the VR to simulate the operations in the virtual laboratory. What do you think?	Social;
 [Cognitive]
-21	A1	/	Observation & Concept mapping	[Behavioral]
+21	A1	/	Observation & Concept mapping (continuing to add vehicle types)	[Behavioral]
 22	A2	A3	It’s OK. But I think there is no need to differentiate them in such a detailed way...	[Social;Cognitive]
 23	A3	A2	So we mention them in a generalized way?	[Social;Cognitive]
 24	A2	A3	Since the focus is the transmission system of the vehicles, not the vehicle itself, so I think the vehicles 
 can be simply divided into three types.   	[Social;Cognitive]
 25	A3	A2	Which three types?	[Social;Cognitive]
 26	A2	A3	The electrical, the hybrid, and the traditional vehicles.	[Social;Cognitive]
-27	A1	/	Concept mapping	[Behavioral]
+27	A1	/	Concept mapping	(continuing to modify vehicle types) [Behavioral]
 28	A3	A2	OK, so students are supposed to conduct the virtual experiments on those three types.	[Social;Cognitive]
-29	A1	/	Concept mapping	[Behavioral]
-30	A3	/	Observation	[Behavioral]
+29	A1	/	Concept mapping	(continuing to modify vehicle types) [Behavioral]
+30	A3	/	Observation	(Observing the concept map) [Behavioral]
 
 
 Group B
