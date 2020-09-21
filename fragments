@@ -53,76 +53,76 @@ Group B
 -------
 Line	From	To	Content	[Dimension]
 1	B1	/	Do we need to assign a role to students in the group? I think it would be inappropriate for all students to do the 
-same thing… do we ask the students to form a group by themselves? Or form a group randomly?	[Cognitive]
+same thing… do we ask the students to form a group by themselves? Or form a group randomly?	[Cognitive ID]
 2	B3	/	Concept mapping	(adding "experimental groups" in the concept map) [Behavioral]
-3	B3	B1	Random grouping？Why?	[Social;Cognitive]
+3	B3	B1	Random grouping？Why?	[Social;Cognitive GS]
 4	B1	/	Observation (observing the concept map)	[Behavioral]
 5	B1	B3	…someone in the group would take responsible for the marketing, then he or she needs to do some research… someone 
 might be good at manufacturing, like an engineer. If there is a role assignment, it can help them to use their strengths 
-better.  	[Social;Cognitive]
+better.  	[Social;Cognitive ID]
 6	B3	/	Concept mapping (adding "marketing" in the concept map)	[Behavioral]
 7	B2	B1	Yes, I totally agree. I think we can let the instructor to assign the groups, if she knows students and their 
 strengths. but I am afraid if we use random grouping, some groups may not be functioning if students are all not skillful 
-at doing this work… Grouping is also an important instructional strategy...	[Social;Cognitive]
+at doing this work… Grouping is also an important instructional strategy...	[Social;Cognitive GM]
 8	B1	B3	Concept mapping (adding "instructional grouping" in the concept map)	[Social;Behavioral]
 9	B2	/	Observation	[Behavioral]
 10	B3	B2	Regarding to the grouping, I have an idea. In fact, what we are talking about is to achieve a better grouping 
 efficiency… the heterogeneous grouping is a good strategy. There are many different ways to achieve this… you can make the 
-groups manually, or you can use an algorithm. 	[Social;Cognitive]
+groups manually, or you can use an algorithm. 	[Social;Cognitive GD]
 11	B1	B3	Concept mapping	(changing to "heterogeneous grouping" in the concept map) [Social;Behavioral]
-12	B3	/	The platform may have this kind of grouping function…	[Cognitive]
+12	B3	/	The platform may have this kind of grouping function…	[Cognitive GS]
 13	B1	B3	Concept mapping	(continuing modifying "heterogeneous grouping" ) [Social;Behavioral]
-14	B1	B3	Taking advantage of the platform to achieve this, right?	[Social;Cognitive]
-15	B3	B1	Yes, we need to solve the problems about using what kind of technical supports.	[Social;Cognitive]
+14	B1	B3	Taking advantage of the platform to achieve this, right?	[Social;Cognitive GS]
+15	B3	B1	Yes, we need to solve the problems about using what kind of technical supports.	[Social;Cognitive GS]
 16	B3	/	Task understanding (reading tasks)	[Behavioral]
-17	B3	/	The platform can provide intelligent grouping function.	[Cognitive]
+17	B3	/	The platform can provide intelligent grouping function.	[Cognitive GM]
 18	B2&B3	/	Observation (observing the concept map)	[Social;Behavioral]
 19	B3	/	Then our practical activity is like to forming a group-based work to achieve the engine assembling practice.	
-[Cognitive]
+[Cognitive GM]
 20	B3	/	Concept mapping	(modifying "engine assembling practice" in the concept map) [Behavioral]
 21	B2	/	Observation (observing the concept map)	[Behavioral]
 22	B3	/	For the engine assembling, what does the platform need to provide? For instance, the platform provides some 
-accessories from different brands… students are supposed to figure out how to assemble them. Any idea?	[Cognitive]
+accessories from different brands… students are supposed to figure out how to assemble them. Any idea?	[Cognitive GM]
 23	B3	/	Concept mapping (modifying "engine assembling" in the concept map)	[Behavioral]
 24	B2	/	Observation	(observing concept map) [Behavioral]
 25	B2	B3	We assume that the platform can provide options for students to choose… For example, the groups of students are 
 required to complete their design of engine within the limited budget. Then, the instructor can evaluate students’ performance
-under such a restricted condition.	[Social;Cognitive]
+under such a restricted condition.	[Social;Cognitive ID]
 26	B2	/	Observation	(observing concept map) [Behavioral]
 27	B1	/	Concept mapping	(modifying platforms in the concept map) [Behavioral]
 28	B3	B2	It’s a good idea. It is better to define the requirement specifically, such as who is your target customer. In 
-addition, I think we can specify some dimensions to evaluate the groups’ performance of engine assembling. 	[Social;Cognitive]
+addition, I think we can specify some dimensions to evaluate the groups’ performance of engine assembling. 	[Social;Cognitive ID]
 29	B2	/	Observation	(observing concept map)[Behavioral]
-30	B2	B3	this part - assigning groups with budget - should be specify.	[Social;Cognitive]
+30	B2	B3	this part - assigning groups with budget - should be specify.	[Social;Cognitive GM]
 31	B2	B3	Concept mapping (adding "budget" in the concept map)	[Social;Behavioral]
-32	B1	B2	It means that students form groups, and then the groups randomly receive their tasks.	[Social;Cognitive]
+32	B1	B2	It means that students form groups, and then the groups randomly receive their tasks.	[Social;Cognitive GS]
 33	B3	/	Concept mapping	(modifying student tasks in the concept map) [Behavioral]
-34	B2	/	Yes, the task card will tell the student group how much money they can spend to assemble an engine.	[Cognitive]
+34	B2	/	Yes, the task card will tell the student group how much money they can spend to assemble an engine.	[Cognitive GM]
 35	B1	B2	I think we could define the target group, for example, if they are rich, they may want to use the more luxurious 
-accessories.	[Social;Cognitive]
+accessories.	[Social;Cognitive GM]
 36	B3	/	Concept mapping	(modifying the evaluation of engine in the concept map) [Behavioral]
-37	B2	B1	Yep.	[Social;Cognitive]
-38	B3	B1	Forming a group, and then receiving the task.	[Social; Behavioral]
+37	B2	B1	Yep.	[Social;Cognitive GS]
+38	B3	B1	Forming a group, and then receiving the task.	[Social; Cognitive GM]
 39	B3	/	Concept mapping	(modifying the tasks in the concept map) [Behavioral]
 40	B2	B3	It is like a mission card. When you open that card, you will find that you are in a specific group with an 
 assigned role. And then you will find the amount of money for the group to use. The purpose is to assemble an engine. 
 Then the group will log in the online platform to assemble the engine… there will be a mall in the platform…students are 
 supposed to learn how to build an engine there.	[Social;Cognitive: GD]
 41	B3	/	Concept mapping	 (adding "task cards" in the concept map)[Behavioral]
-42	B2	/	Is it necessary to describe details of the types of engine?	[Cognitive]
+42	B2	/	Is it necessary to describe details of the types of engine?	[Cognitive GS]
 43	B3	B2	It is necessary to clarify the main goals in the card, such as the budget, the target customer, restricted 
-conditions, and assemble the engine. For example, the task card one is… two is… how do you guys feel?	[Social;Cognitive]
-44	B1	B3	I think it’s very interesting.	[Social;Cognitive]
+conditions, and assemble the engine. For example, the task card one is… two is… how do you guys feel?	[Social;Cognitive GM]
+44	B1	B3	I think it’s very interesting.	[Social;Cognitive GS]
 45	B1	/	Observation	(observing concept map)[Behavioral]
-46	B2	B3	This activity is quite interesting.	[Social;Cognitive]
-47	B1	B2	Yes, I agree.	[Social;Cognitive]
-48	B3	/	We give students different situations in the card.	[Cognitive]
+46	B2	B3	This activity is quite interesting.	[Social;Cognitive GS]
+47	B1	B2	Yes, I agree.	[Social;Cognitive GS]
+48	B3	/	We give students different situations in the card.	[Cognitive GM]
 49	B1	B3	I think it is necessary. If there is no restriction, it will be difficult for the instructor to evaluate students.	[Social;
-Cognitive]
+Cognitive GM]
 50	B2	/	I have a question. This design is more focused on the car, not the engine. To evaluate an engine, we need to focus 
-on the price/performance ratio…	[Cognitive]
+on the price/performance ratio…	[Cognitive GM]
 51	B1	/	Task understanding	(reading the task) [Behavioral]
-52	B2	/	Therefore, we need to specify the budget, situation, price/performance ratio etc.	[Cognitive]
+52	B2	/	Therefore, we need to specify the budget, situation, price/performance ratio etc.	[Cognitive GM]
 53	B2	/	Concept mapping	(moving the concept map) [Behavioral]
 
 Group C
