@@ -2,24 +2,24 @@ Group A
 -----------
 Line	From	To	Conetnt [Dimension]
 1	A3	/	Another critical question for us to think is why we need to do the design… We can get connected with vehicles managers 
-or users to know more about their using experiences, then make some modification on the function or design.	[Cognitive]
+or users to know more about their using experiences, then make some modification on the function or design.	[Cognitive; ID]
 2	A2	A3	We can focus our design on the driving experience or the human-computer interaction in the car, which is closer to 
-our experience since we don’t have the engineering expertise.	[Social; Cognitive]
-3	A3	A2	What do you mean by the human-computer interaction?	[Social; Cognitive]
+our experience since we don’t have the engineering expertise.	[Social; Cognitive GM]
+3	A3	A2	What do you mean by the human-computer interaction?	[Social; Cognitive GS]
 4	A2	A3	I mean… new energy vehicles have the intelligent control function, involving the human-computer interaction.	[Social;
-Cognitive]
-5	A1	A2	Do you mean the driverless cars?	[Social; Cognitive]
-6	A3	A1	No, I mean the common new energy vehicles…	[Social; Cognitive]
+Cognitive IM]
+5	A1	A2	Do you mean the driverless cars?	[Social; Cognitive GS]
+6	A3	A1	No, I mean the common new energy vehicles…	[Social; Cognitivec IM]
 7	A2	A3	I think it is okay to focus on the new energy vehicles. We can use the VR techniques in the activity design. 
 Since students are supposed to learn relevant theories, we can teach them about the difference of power transmission between 
-the tradition vehicles and the new energy vehicles…	[Social;Cognitive]
+the tradition vehicles and the new energy vehicles…	[Social;Cognitive GM]
 8	A1	/	Observation & Concept mapping (adding content about "new energy vehicle" but later deleting it)	[Behavioral]
-9	A1	A2	I think we’d better narrow down the topic you mentioned and make it more targeted.	[Social;Cognitive]
-10	A3	A1	OK, what is in your mind? Which topic do you suggest to narrow down to?	[Social;Cognitive]
+9	A1	A2	I think we’d better narrow down the topic you mentioned and make it more targeted.	[Social;Cognitive GS]
+10	A3	A1	OK, what is in your mind? Which topic do you suggest to narrow down to?	[Social;Cognitive GS]
 11	A3	/	Observation (observing the concept map)	[Behavioral]
-12	A1	A3	I agree with [A2]’s suggestions…	[Social;Cognitive]
+12	A1	A3	I agree with [A2]’s suggestions…	[Social;Cognitive GS]
 13	A2	/	…regarding their differences, for instance, the tradition vehicles use engine as transmission, but the new energy 
-vehicles may use motor.	[Cognitive]
+vehicles may use motor.	[Cognitive ID]
 14	A1&A3	/	Observation	(observing the concept map) [Behavioral]
 15	A2	/	Regarding this topic, we can focus on engineering design, which means how to make a better design to improve the 
 efficiency of energy use… Taking this as the theme of our class, students are supposed to tell the differences of the 
@@ -27,23 +27,24 @@ manufacturing techniques between the tradition vehicles and the new energy vehic
 of the technique; students can use VR or online experiments to experience the transmission techniques.	[Cognitive: GD]
 16	A1	/	Observation & Concept mapping (trying to add more content about vehicle types and later deleting the content)	[Behavioral]
 17	A3	A2	Yes, I think your idea is very good. And we can specify it, for example, the different energy types.	[Social;
-Cognitive]
+Cognitive GS]
 18	A2	A3	The hybrid-energy vehicle is different from the electrical vehicle, because the hybrid type involves both the 
 traditional and the new energy… we can focus on the differences among those three types: electrical, gasoline, and hybrid. 
 Then, students can use the VR experiments to dissemble the vehicles and learn and the differences of those three types of 
-vehicles. 	[Social;Cognitive]
+vehicles. 	[Social;Cognitive GM]
 19	A1	/	Observation & Concept mapping (adding three vehicle types in the concept map)	[Behavioral]
-20	A3	A2	Yes. Students can form groups to focus on different types of vehicles, such as [many different types of energy] .... We can let students learn the theories first, and then use the VR to simulate the operations in the virtual laboratory. What do you think?	Social;
-[Cognitive]
+20	A3	A2	Yes. Students can form groups to focus on different types of vehicles, such as [many different types of energy] .... 
+We can let students learn the theories first, and then use the VR to simulate the operations in the virtual laboratory. What do you think?	[Social;
+Cognitive GM]
 21	A1	/	Observation & Concept mapping (continuing to add vehicle types)	[Behavioral]
-22	A2	A3	It’s OK. But I think there is no need to differentiate them in such a detailed way...	[Social;Cognitive]
-23	A3	A2	So we mention them in a generalized way?	[Social;Cognitive]
+22	A2	A3	It’s OK. But I think there is no need to differentiate them in such a detailed way...	[Social;Cognitive GM]
+23	A3	A2	So we mention them in a generalized way?	[Social;Cognitive GS]
 24	A2	A3	Since the focus is the transmission system of the vehicles, not the vehicle itself, so I think the vehicles 
-can be simply divided into three types.   	[Social;Cognitive]
-25	A3	A2	Which three types?	[Social;Cognitive]
-26	A2	A3	The electrical, the hybrid, and the traditional vehicles.	[Social;Cognitive]
+can be simply divided into three types.   	[Social;Cognitive GM]
+25	A3	A2	Which three types?	[Social;Cognitive GS]
+26	A2	A3	The electrical, the hybrid, and the traditional vehicles.	[Social;Cognitive IM]
 27	A1	/	Concept mapping	(continuing to modify vehicle types) [Behavioral]
-28	A3	A2	OK, so students are supposed to conduct the virtual experiments on those three types.	[Social;Cognitive]
+28	A3	A2	OK, so students are supposed to conduct the virtual experiments on those three types.	[Social;Cognitive GS]
 29	A1	/	Concept mapping	(continuing to modify vehicle types) [Behavioral]
 30	A3	/	Observation	(Observing the concept map) [Behavioral]
 
